@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'Aggravo';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/SBAggroM.woff') format('woff');
+  font-weight: normal;
+  font-display: swap;
+}
+
+@theme {
+  --color-bg: #0d0d0f;
+  --color-surface: #1a1a22;
+  --color-surface-alt: #22222e;
+  --color-gold: #f2b705;
+  --color-foreground: #e8e8f0;
+  --color-muted: #888899;
+  --color-line: #2a2a38;
+
+  --font-aggro: 'Aggravo', sans-serif;
+}

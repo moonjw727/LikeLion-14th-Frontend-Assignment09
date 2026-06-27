@@ -1,0 +1,8 @@
+body {
+  background-color: var(--color-bg);
+  color: var(--color-foreground);
+  font-family: var(--font-aggro);
+  margin: 0;
+}
+
+#root { min-height: 100vh; }
